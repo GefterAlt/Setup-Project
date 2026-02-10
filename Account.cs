@@ -64,6 +64,7 @@ class Account
     public void Show()
     {
         Console.WriteLine($"Owner: {owner}, Balance: {balance}");
+        Console.WriteLine("testing");
     }
 
 }
