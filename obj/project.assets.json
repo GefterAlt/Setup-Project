@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fd1043641\\Desktop\\Finn Dawson\\Setup Project\\Setup Project.csproj",
+      "projectUniqueName": "C:\\Users\\fd1043641\\Documents\\GitHub\\AccountTestClone\\Setup-Project\\Setup Project.csproj",
       "projectName": "Setup Project",
-      "projectPath": "C:\\Users\\fd1043641\\Desktop\\Finn Dawson\\Setup Project\\Setup Project.csproj",
+      "projectPath": "C:\\Users\\fd1043641\\Documents\\GitHub\\AccountTestClone\\Setup-Project\\Setup Project.csproj",
       "packagesPath": "C:\\Users\\fd1043641\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fd1043641\\Desktop\\Finn Dawson\\Setup Project\\obj\\",
+      "outputPath": "C:\\Users\\fd1043641\\Documents\\GitHub\\AccountTestClone\\Setup-Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
